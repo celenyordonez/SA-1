@@ -1,5 +1,5 @@
-# API Escola - Nodee.Js + Express
-API REST simples para gerenciar alunos e professores 
+# API Tarefas- Nodee.Js + Express
+API REST simples para gerenciar tarefas. 
 
 ## Pré-requisitos 
 -Node.js instalado
