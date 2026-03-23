@@ -26,11 +26,11 @@ Abra o navegador em: `http://localhost:3000`
 
 | Metodo | Endpoint | Descrição |
 |--------|----------|-----------|
-|GET | `/tarefas` | Lista os alunos|
-|GET | `/tarefas/:id`| Buscar um aluno expecifico |
-|POST | `/tarefas` | Cria um novo aluno|
-|PUT  | `/tarefas/:id` | Atualiza um aluno|
-|DELETE | `/tarefas/:id` | Remove um aluno|
+|GET | `/tarefas` | Lista as tarefas|
+|GET | `/tarefas/:id`| Buscar uma tarefa expecifica |
+|POST | `/tarefas` | Cria uma nova tarefas|
+|PUT  | `/tarefas/:id` | Atualiza uma tarefas|
+|DELETE | `/tarefas/:id` | Remove um tarefas|
 
 
 ## Tecnologias
