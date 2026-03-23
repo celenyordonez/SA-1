@@ -26,12 +26,12 @@ Abra o navegador em: http://localhost:3000
 
 ### Tarefas
 
-Metodo	Endpoint	Descrição
-GET	/tasks	Lista todas as tarefas
-GET	/tasks/:id	Buscar uma tarefa específica
-POST	/tasks	Cria uma nova tarefa
-PUT	/tasks/:id	Atualiza uma tarefa
-DELETE	/tasks/:id	Remove uma tarefa
+Metodo	|Endpoint|	Descrição
+GET	|/tarefas	|Lista todas as tarefas
+GET	|/tarefas/:id |	Buscar uma tarefa específica
+POST	|/tarefas	|Cria uma nova tarefa
+PUT	|/tarefas/:id |	Atualiza uma tarefa
+DELETE	|/tarefas/:id	|Remove uma tarefa
 
 ---
 
